@@ -1,3 +1,5 @@
+# This notebook is configured in Databricks
+
 # connect to Snowflake API
 connection = {
   "sfUrl": "<URL>",
